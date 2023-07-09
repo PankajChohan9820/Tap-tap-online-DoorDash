@@ -5,8 +5,9 @@ import math
 
 accessKey = {
   "developer_id": "d2386634-120a-48ca-8f8f-f86e80b0056b",
-  "key_id": "514cf6fc-7177-4227-9361-eb7495af61d5",
-  "signing_secret": "6EDTjUINFZ4AAWHKp8b9xamwP0_reNHY5AOcCgzlNCo"
+  #Your key
+  "key_id": "",
+  "signing_secret": ""
 }
 
 token = jwt.encode(
